@@ -1,0 +1,10 @@
+Pelota;30;Cantidad: 
+Guantes;20;Cantidad: 
+Raqueta;50;Cantidad: 
+Pantalones;12;Cantidad: 
+Camiseta;13;Cantidad: 
+Calcetines;8;Cantidad: 
+Gorra;10;Cantidad: 
+Botella;6;Cantidad: 
+PelotasDeTenis;7;Cantidad: 
+ 

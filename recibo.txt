@@ -1,0 +1,4 @@
+Recibo de: daw3
+Producto: Pelota Precio: 30euros Cantidad: 2
+Producto: Camiseta Precio: 13euros Cantidad: 4
+Precio total: 112
